@@ -17,7 +17,7 @@
  * des chiffres différents les uns des autres.
  */
 
- public class Eau01 {
+ public class Eau00 {
  
     public static void main(String[] args) {
         for (int i= 0; i < 8; i++) {
